@@ -4,3 +4,4 @@ I live in Incheon.
 Yes, sir!   
 Today is wendesday. 
 ### 취미 업데이트
+specialty
