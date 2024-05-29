@@ -1,1 +1,2 @@
-my hobby is playing chess
+my hobby is playing chess   
+야구 보기
